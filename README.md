@@ -1,2 +1,0 @@
-# Easyops
-Operation platform
